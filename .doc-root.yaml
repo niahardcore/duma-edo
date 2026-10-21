@@ -1,7 +1,2 @@
-title: ДУМА-ЭДО
-optionalCategoryIndex: true
-supportedLanguages: []
-properties: []
-lfs:
-  auto: false
-  exclude: []
+title: Новый каталог
+syntax: XML
